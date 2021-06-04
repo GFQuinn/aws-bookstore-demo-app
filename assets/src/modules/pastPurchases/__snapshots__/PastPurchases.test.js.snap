@@ -1,0 +1,170 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the snapshot 1`] = `
+<div
+  className="Category"
+>
+  <form
+    className="searchform mainsearch"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col-md-8 search-padding"
+      >
+        <div
+          className="input-group"
+        >
+          <div
+            className="input-group-addon addon-black no-radius"
+          >
+            Search
+          </div>
+          <input
+            className="form-control no-radius"
+            id="txtSearch"
+            onChange={[Function]}
+            type="text"
+            value=""
+          />
+          <div
+            className="input-group-btn"
+          >
+            <button
+              className="btn btn-orange no-radius"
+              onClick={[Function]}
+            >
+              <span
+                className="glyphicon glyphicon-search"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="col-md-4 title-padding"
+      >
+        <h3
+          className="no-margin white"
+        >
+          Best
+          <span
+            className="orange"
+          >
+             deals 
+          </span>
+          of the day
+        </h3>
+      </div>
+    </div>
+  </form>
+  <ul
+    className="nav nav-pills justify-content-center nav-cat"
+  >
+    <li
+      role="presentation"
+    >
+      <a
+        className="category-link"
+        href="/category/Cookbooks"
+      >
+        Cookbooks
+      </a>
+    </li>
+    <li
+      role="presentation"
+    >
+      <a
+        className="category-link"
+        href="/category/Database"
+      >
+        Database
+      </a>
+    </li>
+    <li
+      role="presentation"
+    >
+      <a
+        className="category-link"
+        href="/category/Fairy Tales"
+      >
+        Fairy Tales
+      </a>
+    </li>
+    <li
+      role="presentation"
+    >
+      <a
+        className="category-link"
+        href="/category/Science Fiction"
+      >
+        Science Fiction
+      </a>
+    </li>
+    <li
+      role="presentation"
+    >
+      <a
+        className="category-link"
+        href="/category/Home Improvement"
+      >
+        Home Improvement
+      </a>
+    </li>
+    <li
+      role="presentation"
+    >
+      <a
+        className="category-link"
+        href="/category/Cars"
+      >
+        Cars
+      </a>
+    </li>
+    <li
+      role="presentation"
+    >
+      <a
+        className="category-link"
+        href="/category/Woodwork"
+      >
+        Woodwork
+      </a>
+    </li>
+  </ul>
+  <div
+    className="well-bs col-md-12"
+  >
+    <div
+      className="white-box"
+    >
+      <h3>
+        Past purchases
+      </h3>
+    </div>
+    <div
+      className="well-bs no-margin-top no-padding col-md-12"
+    >
+      <a
+        href="/best"
+      >
+        <img
+          alt="Best sellers"
+          className="checkout-img no-padding"
+          src="bestSellers.png"
+        />
+      </a>
+      <a
+        href="/cart"
+      >
+        <img
+          alt="Shopping cart"
+          className="checkout-img no-padding"
+          src="yourshoppingcart.png"
+        />
+      </a>
+    </div>
+  </div>
+</div>
+`;
