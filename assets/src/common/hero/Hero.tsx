@@ -1,3 +1,5 @@
+//Greg Quinn
+//1125128
 import React from "react";
 
 import image from "../../images/hero/hero-main.png";

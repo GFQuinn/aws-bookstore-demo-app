@@ -1,3 +1,5 @@
+//greg quinn
+//1125128
 import { API } from 'aws-amplify';
 import React from 'react';
 import { FriendThumb } from './FriendThumb';

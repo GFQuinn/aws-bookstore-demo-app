@@ -1,3 +1,5 @@
+//Greg Quinn
+//1125128
 import React, { Component } from "react";
 import { Redirect } from "react-router";
 import { CategoryNavBar } from "../category/categoryNavBar/CategoryNavBar";

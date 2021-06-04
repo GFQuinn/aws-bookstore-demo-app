@@ -1,3 +1,5 @@
+//Greg Quinn
+//1125128
 import React from 'react';
 import { Glyphicon } from 'react-bootstrap';
 import "./starRating.css";

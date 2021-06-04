@@ -1,3 +1,5 @@
+//Greg Quinn
+//1125128
 import React, { Component } from "react";
 import { CategoryNavBar } from "./categoryNavBar/CategoryNavBar";
 import { SearchBar } from "../search/searchBar/SearchBar";

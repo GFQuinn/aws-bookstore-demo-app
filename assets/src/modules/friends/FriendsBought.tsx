@@ -1,3 +1,5 @@
+//Greg Quinn
+//1125128
 import React from "react";
 import { ProductRow } from "./ProductRow";
 import { API } from "aws-amplify";

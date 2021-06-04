@@ -1,3 +1,5 @@
+//awfhugpuawoifaifopwhjf9aqjfew
+//favylbiujk;ifnqae;ovga
 import React, { Component } from "react";
 import { CategoryNavBar } from "../category/categoryNavBar/CategoryNavBar";
 import { SearchBar } from "./searchBar/SearchBar";
