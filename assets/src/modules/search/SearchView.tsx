@@ -1,5 +1,5 @@
-//awfhugpuawoifaifopwhjf9aqjfew
-//favylbiujk;ifnqae;ovga
+//Greg Quinn
+//1125128
 import React, { Component } from "react";
 import { CategoryNavBar } from "../category/categoryNavBar/CategoryNavBar";
 import { SearchBar } from "./searchBar/SearchBar";

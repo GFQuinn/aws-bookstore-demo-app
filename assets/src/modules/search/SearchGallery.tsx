@@ -1,4 +1,4 @@
-//1125128
+//Greg Quinn
 //1125128
 import React from "react";
 import "../../common/styles/gallery.css";

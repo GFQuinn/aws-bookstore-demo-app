@@ -1,4 +1,4 @@
-//greg quinn
+//Greg Quinn
 //1125128
 import { API } from 'aws-amplify';
 import React from 'react';

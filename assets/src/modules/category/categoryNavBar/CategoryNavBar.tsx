@@ -1,4 +1,4 @@
-
+//Greg Quinn
 //1125128
 import React from "react";
 import { categories } from "./categories";

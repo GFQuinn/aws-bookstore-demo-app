@@ -1,4 +1,4 @@
-
+//Greg Quinn
 //1125128
 import React, { Component } from "react";
 import { CategoryNavBar } from "../category/categoryNavBar/CategoryNavBar";
